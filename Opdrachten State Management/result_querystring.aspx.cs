@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Opdrachten_State_Management
 {
+    #region "Opdracht 8"
     public partial class result_querystring : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
@@ -21,4 +22,5 @@ namespace Opdrachten_State_Management
             }
         }
     }
+    #endregion
 }

@@ -46,6 +46,7 @@
         <br />
         <div>
             <asp:TextBox ID="txt_Input" runat="server"></asp:TextBox>
+            <%-- Opdracht 12 - Met deze validator wordt het input veld Required. Door middel van "ControlToValidate" kan je selecteren welk control je wilt valideren. --%>
             <asp:RequiredFieldValidator
                 runat="server"
                 ID="rfv_Input"

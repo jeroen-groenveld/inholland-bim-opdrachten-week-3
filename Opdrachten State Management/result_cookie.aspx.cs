@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Opdrachten_State_Management
 {
+    #region "Opdrahct 9"
     public partial class result_cookie : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
@@ -18,4 +19,5 @@ namespace Opdrachten_State_Management
             }
         }
     }
+    #endregion
 }
