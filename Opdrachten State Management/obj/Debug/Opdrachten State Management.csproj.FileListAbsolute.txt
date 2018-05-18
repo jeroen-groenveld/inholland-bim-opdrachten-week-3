@@ -1,0 +1,7 @@
+C:\Users\Jeroen\source\repos\Opdrachten State Management\Opdrachten State Management\bin\Opdrachten State Management.dll.config
+C:\Users\Jeroen\source\repos\Opdrachten State Management\Opdrachten State Management\bin\Opdrachten State Management.dll
+C:\Users\Jeroen\source\repos\Opdrachten State Management\Opdrachten State Management\bin\Opdrachten State Management.pdb
+C:\Users\Jeroen\source\repos\Opdrachten State Management\Opdrachten State Management\obj\Debug\Opdrachten State Management.csprojAssemblyReference.cache
+C:\Users\Jeroen\source\repos\Opdrachten State Management\Opdrachten State Management\obj\Debug\Opdrachten State Management.csproj.CoreCompileInputs.cache
+C:\Users\Jeroen\source\repos\Opdrachten State Management\Opdrachten State Management\obj\Debug\Opdrachten State Management.dll
+C:\Users\Jeroen\source\repos\Opdrachten State Management\Opdrachten State Management\obj\Debug\Opdrachten State Management.pdb

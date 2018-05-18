@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode url="default.aspx" title="Home"  description="">
+    <siteMapNode url="result_cookie.aspx" title="Cookie resultaat pagina"  description="" />
+    <siteMapNode url="result_hyperlink.aspx" title="Hyperlink resultaat pagina"  description="" />
+    <siteMapNode url="result_postbackurl.aspx" title="PostbackURL resultaat pagina"  description="" />
+    <siteMapNode url="result_querystring.aspx" title="QueryString resultaat pagina"  description="" />
+    <siteMapNode url="result_session.aspx" title="Session resultaat pagina"  description="" />
+  </siteMapNode>
+</siteMap>

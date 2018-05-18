@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="Opdrachten_State_Management.master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Label ID="Label1" runat="server" Text="Welkom op deze pagina"></asp:Label>
+
+            <br />
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/default.aspx">Terug naar homepagina</asp:HyperLink>
+            <%-- Placeholder voor de content waarop de masterpage gebruikt wordt. --%>
+            <div style="margin-top: 2em; margin-bottom:2em;">
+                <asp:ContentPlaceHolder ID="body" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <asp:Label ID="lbl_Visited" runat="server" Text="Label"></asp:Label>
+        </div>
+    </form>
+</body>
+</html>
